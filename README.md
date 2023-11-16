@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Daniel Amaya
+- 👀 I’m interested in Videogame Development
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collaborate on C++
+- 📫 How to reach me danielamaya2242@gmail.com
