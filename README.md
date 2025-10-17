@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Daniel Amaya
-- 👀 I’m interested in Videogame Development, and Data Science
-- 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me danielamaya2242@gmail.com
+- 👋 Hi, I’m Daniel Amaya Gamero
+- 🎓 I'm a Student at California State University Dominguez Hills
+- 🕴️ I'm the Current President of the SHPE (Society of Hispanic Professional Engineers) Chapter @ CSUDH
+- 👀 I’m interested in Database Engineering, Back end Software development and Data Science
+- 🌱 I’m currently learning Java, python and SQL
+- 💞️ I’m looking to collaborate on Java and SQL
+- 📫 How to reach me danielamaya2242@gmail.com or damayagamero1@toromail.csudh.edu
+- 🏢 Currently working as a developer intern @ EpiBuild.
